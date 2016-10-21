@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="nome">Nome:</string>
+    <string name="valor">Valor:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="nenhum_produto_cadastrado">Nenhum produto cadastrado</string>
+    <string name="txt_menu_resultado">Resultado</string>
+</resources>

@@ -1,0 +1,10 @@
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/R$layout$override.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/R$style$override.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/R$styleable$override.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/R$menu$override.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/R$mipmap$override.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/R$id$override.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/R$string$override.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/R$integer$override.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Database/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/icommerce/com/br/database/activity/ListProdutosActivity$override.class
